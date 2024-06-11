@@ -1,0 +1,1 @@
+ /home/user/M-Box-Login-UI/.dart_tool/flutter_build/164d504c04e87c95fdeb3aa352ad9ab1/native_assets.yaml: 
